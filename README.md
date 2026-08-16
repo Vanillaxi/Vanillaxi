@@ -1,3 +1,3 @@
-<div align="right">
-  <img src="signature-animated.svg" alt="Vanillaxi signature" width="18%" />
+<div align="center">
+  <img src="assets/signature-animated.svg" alt="Vanillaxi signature" width="60%" />
 </div>
